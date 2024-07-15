@@ -15,11 +15,13 @@ Obtain API Key:
 ## Create a Google Cloud account.
 Navigate to the Google Cloud Console and enable the YouTube API v3.
 Generate an API key to use in your project.
+
+
+## Create and set up a virtual environment in your preferred IDE.
 Set Up Environment:
 
 `python -m venv YT_env`
 
-## Create a virtual environment in your preferred IDE.
 Install dependencies using `pip install -r requirements.txt`.
 Running the Project
 
