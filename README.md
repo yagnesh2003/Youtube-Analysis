@@ -17,15 +17,10 @@ Navigate to the Google Cloud Console and enable the YouTube API v3.
 Generate an API key to use in your project.
 Set Up Environment:
 
-```python
-# Example command to create a virtual environment
-python -m venv YT_env
-
-# Example command to install dependencies
-pip install -r requirements.txt
+`python -m venv YT_env`
 
 ## Create a virtual environment in your preferred IDE.
-Install dependencies using pip install -r requirements.txt.
+Install dependencies using `pip install -r requirements.txt`.
 Running the Project
 
 Once dependencies are installed, execute the project by running the Jupyter Notebook (*.ipynb) file. This file contains the main workflow and can be executed step-by-step to interact with the YouTube API and analyze channel data.
