@@ -6,6 +6,8 @@ Prerequisites
 Before running the project, ensure you have the following:
 
 ## Google API Key: Obtain your API key from Google Cloud Console by creating an account and enabling the YouTube API v3.
+Install the required libraries using `pip install google-api-python-client`.
+
 Python Environment: Set up a virtual environment in your IDE and install required dependencies listed in requirements.txt.
 Installation Steps
 Obtain API Key:
@@ -14,6 +16,13 @@ Obtain API Key:
 Navigate to the Google Cloud Console and enable the YouTube API v3.
 Generate an API key to use in your project.
 Set Up Environment:
+
+```python
+# Example command to create a virtual environment
+python -m venv YT_env
+
+# Example command to install dependencies
+pip install -r requirements.txt
 
 ## Create a virtual environment in your preferred IDE.
 Install dependencies using pip install -r requirements.txt.
