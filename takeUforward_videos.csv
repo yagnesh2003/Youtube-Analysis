@@ -1,0 +1,517 @@
+,Title,Published_date,Views,Likes,Comments,Month
+0,L13. Fractional Knapsack Algorithm,2024-05-27,21455,575,91,May
+1,L12. Candy | Slope Approach Intuition Based,2024-05-27,11725,554,45,May
+2,L11. Valid Parenthesis String | Multiple Approaches,2024-05-27,11016,523,38,May
+3,L10. Minimum number of platforms required in a railway station,2024-05-27,8581,570,40,May
+4,L9. Insert Intervals | Greedy Algorithms Playlist,2024-05-27,6510,467,26,May
+5,L8. Non Overlapping Intervals | Greedy Algorithms Playlist,2024-05-27,6706,484,17,May
+6,L7. N Meeting in One Room | Greedy Algorithms Playlist,2024-05-27,9139,572,20,May
+7,L6. Job Sequencing Problem | Greedy Algorithm Playlist,2024-05-27,10747,621,34,May
+8,L5. Jump Game - II | Greedy Algorithm Playlist,2024-05-22,18309,893,64,May
+9,L4. Jump Game - I | Greedy Algorithm Playlist,2024-05-22,15311,890,34,May
+10,L3. Shortest Job First (or SJF) CPU Scheduling,2024-05-22,11681,702,36,May
+11,L2. Lemonade Change | Greedy Algorithm Playlist,2024-05-22,12985,854,36,May
+12,L1. Assign Cookies | Greedy Algorithm Playlist,2024-05-22,39821,1379,84,May
+13,L12. Minimum Window Substring | 2 Pointers and Sliding Window Playlist,2024-03-27,44425,1272,194,Mar
+14,L11. Subarray with k different integers | 2 Pointers and Sliding Window Playlist,2024-03-27,27075,1166,60,Mar
+15,L10. Count number of Nice subarrays | 2 Pointers and Sliding Window Playlist,2024-03-27,33001,1200,33,Mar
+16,L9. Binary Subarrays With Sum | 2 Pointers and Sliding Window Playlist,2024-03-27,42930,1499,70,Mar
+17,L8. Longest Repeating Character Replacement | 2 Pointers and Sliding Window Playlist,2024-03-27,44453,1540,70,Mar
+18,L7. Number of Substrings Containing All Three Characters | 2 Pointers and Sliding Window Playlist,2024-03-27,31112,1422,63,Mar
+19,L6. Longest Substring With At Most K Distinct Characters | 2 Pointers and Sliding Window Playlist,2024-03-27,25641,1079,63,Mar
+20,L5. Fruit Into Baskets | 2 Pointers and Sliding Window Playlist,2024-03-27,35837,1472,71,Mar
+21,L4. Max Consecutive Ones III | 2 Pointers and Sliding Window Playlist,2024-03-27,45685,1793,71,Mar
+22,L3. Longest Substring Without Repeating Characters | 2 Pointers and Sliding Window Playlist,2024-03-27,72690,2298,87,Mar
+23,L2. Maximum Points You Can Obtain from Cards | 2 Pointers and Sliding Window Playlist,2024-03-27,46052,2263,70,Mar
+24,L1. Introduction to Sliding Window and 2 Pointers | Templates | Patterns,2024-03-27,125647,3968,159,Mar
+25,L8. Smallest Prime Factor (SPF) | Prime Factorisation | Query Based Problem | Maths Playlist,2024-03-17,15954,528,42,Mar
+26,L7. Count Prime in a range L-R | Maths Playlist,2024-03-17,8561,348,15,Mar
+27,L6. Sieve of Eratosthenes | Maths Playlist,2024-03-17,24519,930,42,Mar
+28,L5. Power Exponentiation | Maths Playlist,2024-03-17,14920,613,38,Mar
+29,L4. Print all prime factors of a Number | Maths Playlist,2024-03-17,23244,800,53,Mar
+30,L3. Check if a Number if Prime or not | Maths Playlist,2024-03-17,14718,492,22,Mar
+31,L2. Print all Divisors of a Number | Maths Playlist,2024-03-17,21591,727,57,Mar
+32,L9. Divide Two Integers without using Multiplication and Division Operators | Bit Manipulation,2024-03-09,45480,1468,111,Mar
+33,L8. XOR of Numbers in a Given Range | Bit Manipulation,2024-03-09,23627,1309,40,Mar
+34,L7. Single Number III | Bit Manipulation,2024-03-09,31260,1283,52,Mar
+35,L6. Single Number II | Bit Manipulation,2024-03-09,29595,1308,79,Mar
+36,L5. Single Number-I | Bit Manipulation,2024-03-09,22503,1045,24,Mar
+37,L4. Power Set | Bit Manipulation,2024-03-09,33271,1357,42,Mar
+38,L3. Minimum Bit Flips to Convert Number | Bit Manipulation,2024-03-09,31785,1259,35,Mar
+39,L2. Must Know Tricks in Bit Manipulation | Swap two numbers without third variable,2024-03-09,80430,2483,109,Mar
+40,L1. Introduction to Bit Manipulation | 1's 2's Compliment | Bit Operators,2024-03-09,114302,3714,209,Mar
+41,Don't watch my A2Z DSA Course,2024-03-01,477458,11318,469,Mar
+42,L28. Design a Browser History | LinkedList Implementation,2024-01-01,45392,996,98,Jan
+43,L27. Clone a LinkedList with Next and Random Pointers | Copy List with Random Pointers,2024-01-01,38650,1366,47,Jan
+44,L26. Sort a Linked List | Merge Sort and Brute Force,2024-01-01,63575,1777,65,Jan
+45,L24. Flattening a LinkedList | Multiple Approaches with Dry Run,2024-01-01,37189,1394,82,Jan
+46,L25. Merge K Sorted Lists | Multiple Approaches,2024-01-01,30583,1090,44,Jan
+47,L23. Merge two sorted Linked Lists,2024-01-01,40724,1490,60,Jan
+48,L22. Rotate a LinkedList,2023-11-30,46866,1567,111,Nov
+49,L21. Reverse Nodes in K Group Size of LinkedList,2023-11-30,60498,1875,100,Nov
+50,L20. Remove duplicates from sorted DLL,2023-11-30,25634,1096,43,Nov
+51,L19. Find all Pairs with given Sum in DLL,2023-11-30,26411,1249,48,Nov
+52,L18. Delete all occurrences of a Key in DLL,2023-11-30,29728,1233,46,Nov
+53,L17. Find the starting point of the Loop/Cycle in LinkedList | Multiple Approaches,2023-11-29,42701,2167,141,Nov
+54,L16. Delete the middle node of the LinkedList,2023-11-29,29104,1239,57,Nov
+55,L15. Find the length of the Loop in LinkedList,2023-11-29,35839,1409,51,Nov
+56,L14. Detect a loop or cycle in LinkedList | With proof and Intuition,2023-11-29,54787,2421,97,Nov
+57,L13. Find the middle element of the LinkedList | Multiple Approaches,2023-11-29,39229,1545,49,Nov
+58,L12. Find the intersection point of Y LinkedList,2023-11-29,46398,1884,110,Nov
+59,L11. Add 1 to a number represented by LinkedList,2023-11-29,42754,1685,67,Nov
+60,L10. Check if a LinkedList is Palindrome or Not | Multiple Approaches,2023-11-26,60157,2205,98,Nov
+61,L9. Reverse a LinkedList | Iterative and Recursive,2023-11-26,91629,2912,126,Nov
+62,L8. Remove Nth Node from the end of the LinkedList | Multiple Approaches,2023-11-26,53787,2911,158,Nov
+63,"L7. Sort a LinkedList of 0's, 1's and 2's | Multiple Approaches",2023-11-26,46498,1902,95,Nov
+64,L6. Odd Even Linked List | Multiple Approaches,2023-11-26,63286,2472,186,Nov
+65,L5. Add 2 numbers in LinkedList | Dummy Node Approach,2023-11-26,65491,2571,93,Nov
+66,L4. Reverse a DLL | Multiple Approaches,2023-11-26,55208,2344,65,Nov
+67,L3. Introduction to Doubly LinkedList | Insertions and Deletions,2023-11-26,99640,3124,127,Nov
+68,L2. Deletion and Insertion in LL | 8 Problems,2023-11-26,133459,4340,168,Nov
+69,L1. Introduction to LinkedList | Traversal | Length | Search an Element,2023-11-26,248750,8118,247,Nov
+70,Paid LinkedList Bootcamp - Launch Video,2023-11-25,195820,14412,2373,Nov
+71,System Design Roadmap. Special thanks to @gkcs for helping with this one ♥️,2023-10-13,78282,7968,51,Oct
+72,What caused facebook to go down?,2023-10-06,25596,1888,12,Oct
+73,How to setup VS code for DSA and CP | Input / Output split format,2023-09-27,520615,6585,527,Sep
+74,TODO: Add this chrome extension for your internship and placement season,2023-09-15,159221,20429,47,Sep
+75,BS-27. Median in a Row Wise Sorted Matrix,2023-09-13,71314,2088,148,Sep
+76,BS-26. Find Peak Element-II | Binary Search,2023-09-12,58489,2025,97,Sep
+77,Crack high paying MAANG jobs with Newton Edge,2023-09-08,23995,927,14,Sep
+78,BS-25. Search in a 2D Matrix - II  |  Binary Search on 2D,2023-08-13,57546,2350,124,Aug
+79,BS-24. Search in a 2D Matrix - I | Binary Search of 2D,2023-08-13,77311,2450,92,Aug
+80,BS 23. Row with maximum number of 1s | Binary Search on 2D Arrays,2023-08-13,48531,1705,81,Aug
+81,Bs-22. K-th element of two sorted arrays | Binary Search Approach,2023-08-13,57847,1641,77,Aug
+82,BS 21: Median of two Sorted Arrays of Different Sizes | Brute and Better Approach,2023-08-13,99163,2155,58,Aug
+83,BS-21. Median of two Sorted Arrays of Different Sizes | Binary Search Approach With Intuition,2023-08-13,134563,5386,300,Aug
+84,BS-20. Minimise Maximum Distance between Gas Stations | 3 Approaches | Heap | Binary Search,2023-07-16,109092,3386,284,Jul
+85,BS 19. Painter's Partition and Split Array - Largest Sum,2023-07-12,82960,2510,108,Jul
+86,Update on A2Z DSA course!,2023-07-05,90747,6724,102,Jul
+87,BS-18. Allocate Books or Book Allocation | Hard Binary Search,2023-06-27,132960,3873,273,Jun
+88,BS-17. Aggressive Cows | Binary Search Hard,2023-06-27,125408,4334,208,Jun
+89,BS-16. Kth Missing Positive Number | Maths + Binary Search,2023-06-23,112183,3832,267,Jun
+90,BS-15. Capacity to Ship Packages within D Days,2023-06-23,76650,2983,155,Jun
+91,BS-14. Find the Smallest Divisor Given a Threshold | Binary Search,2023-06-22,61078,2644,137,Jun
+92,BS-13. Minimum days to make M bouquets | Binary Search,2023-06-22,109669,3876,199,Jun
+93,BS-12. Koko Eating Bananas,2023-06-21,130820,4185,225,Jun
+94,BS-11. Find the Nth root of an Integer,2023-06-21,92201,3487,178,Jun
+95,BS-10. Finding Sqrt of a number using Binary Search,2023-06-20,102155,3984,189,Jun
+96,BS-9. Find Peak Element,2023-06-20,139385,5270,323,Jun
+97,Striver's SDE SHEET CHALLENGE 2023 | 2.25L Worth Prizes | Sheet for Interviews,2023-06-04,98327,3906,244,Jun
+98,BS-8. Single Element in Sorted Array,2023-06-01,124140,4228,282,Jun
+99,BS-7. Find out how many times array has been rotated,2023-06-01,86214,3276,125,Jun
+100,BS-6. Minimum in Rotated Sorted Array,2023-06-01,135513,5688,328,Jun
+101,BS-5. Search Element in Rotated Sorted Array II,2023-06-01,135328,5984,290,Jun
+102,BS-4. Search Element in Rotated Sorted Array - I,2023-06-01,206591,6713,372,Jun
+103,BS-3. First and Last Occurrences in Array | Count occurrences in Array,2023-06-01,162998,4726,278,Jun
+104,BS-2. Implement Lower Bound and Upper Bound | Search Insert Position | Floor and Ceil,2023-06-01,224612,6692,362,Jun
+105,BS-1. Binary Search Introduction | Real Life Example | Iterative | Recursive | Overflow Cases,2023-06-01,197387,6942,234,Jun
+106,"Launching Binary Search Bootcamp - C++, Java, Python, Notes, Contest, Doubt Support 🔥",2023-05-17,228033,9504,1837,May
+107,Maximum Product Subarray - Best Intuitive Approach Discussed,2023-05-10,166473,5578,303,May
+108,Reverse Pairs | Hard Interview Question,2023-05-08,109267,3103,168,May
+109,Count Inversions in an Array | Brute and Optimal,2023-05-08,172142,5595,191,May
+110,✅ way to showcase projects in an Tech Interview 💪,2023-05-04,80032,8160,25,May
+111,❌ do this in a DSA interview without asking!,2023-05-02,229374,14756,36,May
+112,Find the Missing and Repeating Number | 4 Approaches 🔥,2023-04-29,124514,3173,209,Apr
+113,Hear it out this till the END !!,2023-04-28,240466,15926,100,Apr
+114,Merge Sorted Arrays Without Extra Space | 2 Optimal Solution,2023-04-27,153380,4953,202,Apr
+115,"Merge Overlapping Intervals | Brute, Optimal with Precise TC analysis",2023-04-25,137350,4651,201,Apr
+116,Number of Subarrays with xor K | Brute - Better - Optimal,2023-04-25,102433,3666,132,Apr
+117,Dark mode extension for all websites.,2023-04-19,30172,1614,16,Apr
+118,4 Sum | Brute - Better - Optimal with Codes,2023-04-18,135656,4458,257,Apr
+119,Github trick every Software Engineer should know about!,2023-04-17,45871,3712,24,Apr
+120,3 Sum | Brute -  Better - Optimal with Codes,2023-04-17,247558,7955,313,Apr
+121,This Leetcode's feature is a scam ❌,2023-04-15,155320,9441,82,Apr
+122,Majority Element II | Brute-Better-Optimal,2023-04-14,137255,4781,251,Apr
+123,1 Crore Salary != Good Software Engineer,2023-04-13,224796,16119,89,Apr
+124,ChatGPT trick for converting codes in your language for Interview Preparation,2023-04-07,108048,6463,49,Apr
+125,Pascal Triangle | Finding nCr in minimal time,2023-04-05,193438,6854,251,Apr
+126,Leetcode Extension to see Company Tags | Interview Preparation,2023-04-05,92615,8450,54,Apr
+127,Count Subarray sum Equals K | Brute - Better -Optimal,2023-04-03,234238,5812,225,Apr
+128,Spiral Traversal of a Matrix | Spiral Matrix,2023-04-02,165570,6478,244,Apr
+129,Rotate Matrix/Image by 90 Degrees | Brute - Optimal,2023-03-30,172195,6178,223,Mar
+130,Set Matrix Zeroes | O(1) Space Approach | Brute - Better - Optimal,2023-03-28,287345,8054,432,Mar
+131,Longest Consecutive Sequence | Google Interview Question | Brute Better Optimal,2023-03-27,190385,6074,310,Mar
+132,Codestudio Weekend Contest 66 Editorial | Live Problem Solving | Striver,2023-03-25,10405,468,14,Mar
+133,Leaders in an Array | Brute - Optimal | Strivers A2Z DSA Course,2023-03-24,104657,3750,254,Mar
+134,Next Permutation - Intuition in Detail 🔥 | Brute to Optimal,2023-03-23,309595,12343,497,Mar
+135,Rearrange Array Elements by Sign | 2 Varieties of same Problem,2023-03-18,159747,5138,307,Mar
+136,Kadane's Algorithm | Maximum Subarray Sum | Finding and Printing,2023-03-17,332138,9554,397,Mar
+137,Majority Element I | Brute-Better-Optimal | Moore's Voting Algorithm | Intuition 🔥|Brute to Optimal,2023-03-16,229579,10190,527,Mar
+138,Sort an array of 0's 1's & 2's | Intuition of Algo🔥 | C++ Java Python | Brute-Better-Optimal,2023-03-15,231287,8715,818,Mar
+139,2 Sum Problem | 2 types of the same problem for Interviews | Brute-Better-Optimal,2023-03-14,302555,7430,397,Mar
+140,Longest Subarray with sum K | Brute - Better - Optimal | Generate Subarrays,2023-03-13,445580,8726,616,Mar
+141,Codestudio Weekend Contest 64 Editorial | Live Problem Solving | Striver,2023-03-12,15728,676,10,Mar
+142,Find element that appears once | Find missing number | Max Consecutive number of 1's | Arrays Part-3,2023-03-10,284164,6164,487,Mar
+143,"Rotate Array by K places | Union, Intersection of Sorted Arrays | Move Zeros to End | Arrays Part-2",2023-03-05,599708,11282,767,Mar
+144,Find Second Largest Element in Array | Remove duplicates from Sorted Array | Arrays Intro Video,2023-03-01,938336,14693,744,Mar
+145,Quick Sort For Beginners | Strivers A2Z DSA Course,2023-02-27,309077,7900,379,Feb
+146,Merge Sort | Algorithm | Pseudocode | Dry Run | Code | Strivers A2Z DSA Course,2023-02-08,429836,15102,860,Feb
+147,"Sorting - Part 1 | Selection Sort, Bubble Sort, Insertion Sort | Strivers A2Z DSA Course",2023-01-29,434908,15537,966,Jan
+148,Hashing | Maps | Time Complexity | Collisions | Division Rule of Hashing | Strivers A2Z DSA Course,2023-01-20,493658,12203,793,Jan
+149,Basic Maths for DSA | Euclidean Algorithm | Strivers A2Z DSA Course,2023-01-08,513481,10458,682,Jan
+150,Solve any Pattern Question - Trick Explained | 22 Patterns in 1 Shot | Strivers A2Z DSA Course,2023-01-02,879771,16076,1096,Jan
+151,Time and Space Complexity - Strivers A2Z DSA Course,2022-12-31,478468,14356,2735,Dec
+152,C++ Basics in One Shot - Strivers A2Z DSA Course - L1,2022-12-19,1066520,21719,1075,Dec
+153,G-56. Articulation Point in Graph,2022-11-22,82438,2634,264,Nov
+154,G-55. Bridges in Graph - Using Tarjan's Algorithm of time in and low time,2022-11-22,113717,3589,191,Nov
+155,G-54. Strongly Connected Components - Kosaraju's Algorithm,2022-11-22,111643,4035,185,Nov
+156,G-53. Most Stones Removed with Same Row or Column - DSU,2022-10-23,83798,3049,202,Oct
+157,G-52. Making a Large Island - DSU,2022-10-22,64640,2846,197,Oct
+158,G-51. Number of Islands - II - Online Queries - DSU,2022-10-22,70144,3158,149,Oct
+159,G-50. Accounts Merge - DSU,2022-10-22,78796,3445,185,Oct
+160,G-49. Number of Operations to Make Network Connected - DSU,2022-10-22,69004,3251,141,Oct
+161,G-47. Kruskal's Algorithm - Minimum Spanning Tree - C++ and Java,2022-10-22,148666,5063,184,Oct
+162,G-48. Number of Provinces - Disjoint Set,2022-10-22,61963,2785,100,Oct
+163,G-46. Disjoint Set | Union by Rank | Union by Size | Path Compression,2022-10-22,231528,8660,353,Oct
+164,G-43. Find the City With the Smallest Number of Neighbours at a Threshold Distance,2022-10-22,64452,2890,169,Oct
+165,G-45. Prim's Algorithm - Minimum Spanning Tree - C++ and Java,2022-10-10,206044,6891,597,Oct
+166,G-44. Minimum Spanning Tree - Theory,2022-10-10,105427,4087,93,Oct
+167,G-42. Floyd Warshall Algorithm,2022-10-10,173972,5738,233,Oct
+168,G-41. Bellman Ford Algorithm,2022-10-10,178524,6943,319,Oct
+169,G-40. Number of Ways to Arrive at Destination,2022-10-02,97915,3732,360,Oct
+170,G-39. Minimum Multiplications to Reach End,2022-10-02,79683,2970,336,Oct
+171,G-38. Cheapest Flights Within K Stops,2022-10-02,134727,3874,299,Oct
+172,G-37. Path With Minimum Effort,2022-10-02,116369,3540,215,Oct
+173,G-36. Shortest Distance in a Binary Maze,2022-10-02,122665,3118,287,Oct
+174,G-35. Print Shortest Path - Dijkstra's Algorithm,2022-10-02,161051,3902,204,Oct
+175,"G-34. Dijkstra's Algorithm - Why PQ and not Q, Intuition, Time Complexity Derivation - Part 3",2022-09-28,110452,8099,302,Sep
+176,G-33. Dijkstra's Algorithm - Using Set - Part 2,2022-09-28,122996,5297,239,Sep
+177,G-32. Dijkstra's Algorithm - Using Priority Queue - C++ and Java - Part 1,2022-09-28,281415,6923,263,Sep
+178,G-31. Word Ladder - 2 | Optimised Approach for Leetcode,2022-09-10,65334,2289,143,Sep
+179,G-30. Word Ladder - 2 | Shortest Paths,2022-09-10,109655,3590,233,Sep
+180,G-29. Word Ladder - I | Shortest Paths,2022-09-10,164213,4629,277,Sep
+181,G-28. Shortest Path in Undirected Graph with Unit Weights,2022-09-10,143063,4093,203,Sep
+182,G-27. Shortest Path in Directed Acyclic Graph - Topological Sort,2022-09-10,187793,5116,400,Sep
+183,G-26. Alien Dictionary - Topological Sort,2022-09-10,141003,5016,250,Sep
+184,G-25. Find Eventual Safe States - BFS - Topological Sort,2022-09-05,118080,3753,163,Sep
+185,G-24. Course Schedule I and II | Pre-requisite Tasks | Topological Sort,2022-09-05,165793,4504,227,Sep
+186,G-23. Detect a Cycle in Directed Graph | Topological Sort | Kahn's Algorithm | BFS,2022-09-05,148315,4537,143,Sep
+187,G-22. Kahn's Algorithm | Topological Sort Algorithm | BFS,2022-09-05,204207,5479,173,Sep
+188,G-21. Topological Sort Algorithm | DFS,2022-09-05,250268,6606,234,Sep
+189,G-20. Find Eventual Safe States - DFS,2022-09-03,150010,4307,265,Sep
+190,G-19. Detect cycle in a directed graph using DFS | Java | C++,2022-08-31,196200,5499,304,Aug
+191,G-18. Bipartite Graph | DFS | C++ | Java,2022-08-31,122710,3881,127,Aug
+192,G-17. Bipartite Graph | BFS | C++ | Java,2022-08-31,172343,5008,188,Aug
+193,G-16. Number of Distinct Islands | Constructive Thinking + DFS | C++ | Java,2022-08-30,155391,5209,326,Aug
+194,G-15. Number of Enclaves | Multi-source BFS | C++ | Java,2022-08-30,113978,3801,232,Aug
+195,G-14. Surrounded Regions | Replace O's with X's | C++ | Java,2022-08-29,152942,5113,275,Aug
+196,G-13. Distance of nearest cell having 1 | 0/1 Matrix | C++ | Java,2022-08-17,199726,5714,327,Aug
+197,G-12. Detect a Cycle in an Undirected Graph using DFS | C++ | Java,2022-08-16,177344,5072,199,Aug
+198,G-11. Detect a Cycle in an Undirected Graph using BFS | C++ | Java,2022-08-15,264806,6551,261,Aug
+199,G-10. Rotten Oranges | C++ | Java,2022-08-13,270694,7525,355,Aug
+200,G-8. Number of Islands | Number of Connected Components in Matrix | C++ | Java,2022-08-11,281604,7550,448,Aug
+201,G-9. Flood Fill Algorithm | C++ | Java,2022-08-11,208543,5789,292,Aug
+202,G-7. Number of Provinces | C++ | Java | Connected Components,2022-08-10,243413,6308,323,Aug
+203,G-6. Depth-First Search (DFS) | C++ and Java | Traversal Technique in Graphs,2022-08-08,303334,8540,309,Aug
+204,G-5. Breadth-First Search (BFS) | C++ and Java | Traversal Technique in Graphs,2022-08-07,382295,10551,413,Aug
+205,G-4. What are Connected Components ?,2022-08-06,199807,7975,213,Aug
+206,G-3. Graph Representation in Java | Two Ways to Represent,2022-08-05,121767,3441,101,Aug
+207,G-2. Graph Representation in C++ | Two Ways to Represent,2022-08-05,259040,8087,283,Aug
+208,G-1. Introduction to Graph | Types | Different Conventions Used,2022-08-04,908641,13142,492,Aug
+209,Complete C++ STL in 1 Video | Time Complexity and Notes,2022-06-04,883882,18192,1635,Jun
+210,DP 56. Count Square Submatrices with All Ones | DP on Rectangles 🔥,2022-05-03,86333,3323,487,May
+211,DP 55. Maximum Rectangle Area with all 1's | DP on Rectangles,2022-05-03,117880,3096,144,May
+212,DP 54. Partition Array for Maximum Sum | Front Partition 🔥,2022-05-03,85769,3196,193,May
+213,DP 53. Palindrome Partitioning - II | Front Partition 🔥,2022-05-03,89462,3018,240,May
+214,DP 52. Evaluate Boolean Expression to True | Partition DP,2022-05-03,80838,2804,297,May
+215,DP 51. Burst Balloons | Partition DP | Interactive G-Meet Session Update,2022-04-22,121047,4191,300,Apr
+216,DP 50. Minimum Cost to Cut the Stick,2022-04-19,121604,3837,295,Apr
+217,DP 47. Number of Longest Increasing Subsequences,2022-04-10,99432,3601,334,Apr
+218,DP 46. Longest Bitonic Subsequence | LIS,2022-04-09,74876,3252,227,Apr
+219,Codestudio Contest 16 Editorial | Live Problem Solving | Striver,2022-04-08,9678,388,13,Apr
+220,DP 45. Longest String Chain | Longest Increasing Subsequence | LIS,2022-04-08,90978,3644,243,Apr
+221,DP 44. Largest Divisible Subset | Longest Increasing Subsequence,2022-04-08,106341,3877,218,Apr
+222,DP 43. Longest Increasing Subsequence | Binary Search | Intuition,2022-04-04,174149,6540,370,Apr
+223,DP 42. Printing Longest Increasing Subsequence | Tabulation | Algorithm,2022-04-04,198248,4915,270,Apr
+224,DP 41. Longest Increasing Subsequence | Memoization,2022-04-04,282930,6360,282,Apr
+225,Leetcode Weekly Contest 286 | Free Leetcode Premium Subscriptions Giveaway | Striver,2022-03-27,24901,1232,22,Mar
+226,DP 40. Buy and Sell Stocks With Transaction Fee | Recursion to Space Optimisation,2022-03-25,69173,4045,414,Mar
+227,DP 39. Buy and Sell Stocks With Cooldown | Recursion to Space Optimisation,2022-03-25,82323,3497,238,Mar
+228,DP 38. Buy and Stock Sell IV | Recursion to Space Optimisation,2022-03-25,88928,3259,212,Mar
+229,DP 37. Buy and Sell Stocks III | Recursion to Space Optimisation,2022-03-25,146547,5044,489,Mar
+230,DP 36. Buy and Sell Stock - II | Recursion to Space Optimisation,2022-03-25,201804,6748,509,Mar
+231,DP 35. Best Time to Buy and Sell Stock | DP on Stocks 🔥,2022-03-15,306882,8876,432,Mar
+232,DP 34. Wildcard Matching | Recursive to 1D Array Optimisation 🔥,2022-03-14,147839,5429,461,Mar
+233,Leetcode Weekly Contest 284 | Free Leetcode Premium Subscriptions Giveaway | Striver,2022-03-13,16254,841,16,Mar
+234,Codestudio Contest 12 Editorial | Live Problem Solving | Striver,2022-03-12,6897,289,6,Mar
+235,DP 33. Edit Distance | Recursive to 1D Array Optimised Solution 🔥,2022-03-11,165300,6180,507,Mar
+236,DP 32. Distinct Subsequences | 1D Array Optimisation Technique 🔥,2022-03-10,155812,6050,610,Mar
+237,DP 31. Shortest Common Supersequence | DP on Strings,2022-03-06,139571,5177,379,Mar
+238,DP 30. Minimum Insertions/Deletions to Convert String A to String B,2022-03-06,95024,4071,338,Mar
+239,DP 29. Minimum Insertions to Make String Palindrome,2022-03-05,136849,4887,335,Mar
+240,DP 28. Longest Palindromic Subsequence,2022-03-05,218383,5819,394,Mar
+241,DP 27. Longest Common Substring | DP on Strings 🔥,2022-03-03,187165,5558,438,Mar
+242,DP 26. Print Longest Common Subsequence | Dp on Strings,2022-03-02,167613,5323,476,Mar
+243,Dp 25. Longest Common Subsequence | Top Down | Bottom-Up | Space Optimised | DP on Strings,2022-03-01,302278,8057,773,Mar
+244,Leetcode Weekly Contest 282 | Free Leetcode Premium Subscriptions Giveaway | Striver,2022-02-27,16479,964,18,Feb
+245,DP 49. Matrix Chain Multiplication | Bottom-Up | Tabulation,2022-02-27,82694,3675,280,Feb
+246,DP 48. Matrix Chain Multiplication | MCM | Partition DP Starts 🔥,2022-02-27,204045,6688,469,Feb
+247,Codestudio Contest 11 Editorial | Live Problem Solving | Striver,2022-02-26,7588,352,7,Feb
+248,Leetcode Weekly Contest 281 | Live Problem Solving | Striver,2022-02-20,22874,1183,22,Feb
+249,Codestudio Contest 10 Editorial | Live Problem Solving | Striver,2022-02-19,10718,531,6,Feb
+250,DP 24. Rod Cutting Problem | 1D Array Space Optimised Approach,2022-02-18,158128,5732,638,Feb
+251,DP 23. Unbounded Knapsack | 1-D Array Space Optimised Approach,2022-02-17,104289,4269,459,Feb
+252,DP 22. Coin Change 2 | Infinite Supply Problems  | DP on Subsequences,2022-02-16,176626,4999,508,Feb
+253,Leetcode Weekly Contest 280 | Live Problem Solving | Striver,2022-02-13,27713,1363,28,Feb
+254,DP 21. Target Sum | DP on Subsequences,2022-02-11,145384,4608,553,Feb
+255,DP 20. Minimum Coins | DP on Subsequences | Infinite Supplies Pattern,2022-02-10,197638,5857,686,Feb
+256,DP 19. 0/1 Knapsack | Recursion to Single Array Space Optimised Approach | DP on Subsequences,2022-02-09,245121,9333,1143,Feb
+257,DP 18. Count Partitions With Given Difference | Dp on Subsequences,2022-02-07,173014,5368,586,Feb
+258,Leetcode Weekly Contest 279 | Live Problem Solving | Striver,2022-02-06,49990,2476,37,Feb
+259,Codestudio Contest Editorial | Live Problem Solving | Striver,2022-02-05,18629,953,24,Feb
+260,DP 17. Counts Subsets with Sum K | Dp on Subsequences,2022-02-05,189083,5590,898,Feb
+261,take U forward Live Stream,2022-02-03,0,0,0,Feb
+262,Dp 16. Partition A Set Into Two Subsets With Minimum Absolute Sum Difference | DP on Subsequences,2022-02-03,236573,7399,1069,Feb
+263,DP 15. Partition Equal Subset Sum | DP on Subsequences,2022-02-02,183913,5971,670,Feb
+264,DP 14. Subset Sum Equals to Target | Identify DP on Subsequences and Ways to Solve them,2022-02-01,346702,8146,1025,Feb
+265,DP 13. Cherry Pickup II | 3D DP Made Easy | DP On Grids,2022-01-29,204289,7704,825,Jan
+266,DP 12. Minimum/Maximum Falling Path Sum | Variable Starting and Ending Points | DP on Grids,2022-01-27,200719,7303,1089,Jan
+267,DP 11. Triangle | Fixed Starting Point and Variable Ending Point | DP on GRIDS,2022-01-25,184198,6728,880,Jan
+268,DP 10. Minimum Path Sum in Grid | Asked to me In Microsoft Internship Interview | DP on GRIDS,2022-01-19,206455,7587,1018,Jan
+269,DP 9. Unique Paths 2 | DP on Grid with Maze Obstacles,2022-01-19,162946,6082,915,Jan
+270,DP 8. Grid Unique Paths | Learn Everything about DP on Grids | ALL TECHNIQUES 🔥,2022-01-19,301862,10479,1327,Jan
+271,DP 7. Ninja's Training | MUST WATCH for 2D CONCEPTS 🔥 | Vacation | Atcoder | 2D DP |,2022-01-14,382060,17811,2955,Jan
+272,DP 6. House Robber 2 | 1D DP | DP on Subsequences,2022-01-14,262031,11023,1484,Jan
+273,DP 5. Maximum Sum of Non-Adjacent Elements | House Robber | 1-D | DP on Subsequences,2022-01-12,363435,14298,3772,Jan
+274,DP 4. Frog Jump with K Distance | Lecture 3 Follow Up Question,2022-01-12,260720,11803,1953,Jan
+275,DP 3. Frog Jump | Dynamic Programming | Learn to write 1D DP,2022-01-10,492663,14613,2012,Jan
+276,DP 2. Climbing Stairs | Learn How to Write 1D Recurrence Relations,2022-01-09,426471,10321,947,Jan
+277,DP 1. Introduction to Dynamic Programming | Memoization | Tabulation | Space Optimization Techniques,2022-01-08,846193,26597,3121,Jan
+278,Striver's Dynamic Programming Series | The ULTIMATE | The BIGGEST | Teaser  #shorts,2022-01-07,1080995,6586,155,Jan
+279,L7. All Kind of Patterns in Recursion | Print All | Print one | Count,2021-12-25,495024,15765,588,Dec
+280,L6. Recursion on Subsequences | Printing Subsequences,2021-12-25,536959,15244,510,Dec
+281,Re 5. Multiple Recursion Calls | Problems | Strivers A2Z DSA Course,2021-12-25,376017,13548,267,Dec
+282,Re 4. Problems on Functional Recursion | Strivers A2Z DSA Course,2021-12-25,439155,13045,327,Dec
+283,Re 3. Parameterised and Functional Recursion | Strivers A2Z DSA Course,2021-12-25,459408,13854,369,Dec
+284,Re 2. Problems on Recursion | Strivers A2Z DSA Course,2021-12-25,573168,14522,1078,Dec
+285,Re 1. Introduction to Recursion | Recursion Tree | Stack Space | Strivers A2Z DSA Course,2021-12-25,1281339,22765,477,Dec
+286,L7. Maximum XOR With an Element From Array | Queries | C++ | Java,2021-12-08,47392,1926,230,Dec
+287,L6. Maximum XOR of Two Numbers in an Array | C++ | Java,2021-12-08,70204,2569,178,Dec
+288,How I Got into Google Warsaw As Software Engineer | Interview EXPERIENCE | Preparation Strategies,2021-12-06,365571,16054,489,Dec
+289,L5. Bit PreRequisites for TRIE Problems,2021-11-29,36018,1827,105,Nov
+290,L4. Number of Distinct Substrings in a String | Trie | C++ | Java,2021-11-26,70110,2376,127,Nov
+291,L3. Longest Word With All Prefixes | Complete String | Trie,2021-11-25,66524,2011,144,Nov
+292,L2. Implement Trie-2 | INSERT | countWordsEqualTo() | countWordsStartingWith() | C++ | Java,2021-11-13,79495,2672,216,Nov
+293,L1. Implement TRIE | INSERT | SEARCH | STARTSWITH,2021-11-12,272718,6449,380,Nov
+294,L53. Largest BST in Binary Tree,2021-11-07,138206,4485,324,Nov
+295,L52. Recover BST | Correct BST with two nodes swapped,2021-11-06,112230,4097,120,Nov
+296,L51. Two Sum In BST | Check if there exists a pair with Sum K,2021-10-31,126548,3894,163,Oct
+297,L50. Binary Search Tree Iterator | BST | O(H) Space,2021-10-30,122545,4150,141,Oct
+298,L49. Inorder Successor/Predecessor in BST | 3 Methods,2021-10-29,125968,3943,173,Oct
+299,L48. Construct a BST from a preorder traversal | 3 Methods,2021-10-28,144143,3913,139,Oct
+300,L47. LCA in Binary Search Tree,2021-10-27,108462,4477,113,Oct
+301,L46. Check if a tree is a BST or BT | Validate a BST,2021-10-26,160301,4934,181,Oct
+302,L45. K-th Smallest/Largest Element in BST,2021-10-25,158735,5019,176,Oct
+303,Dussehra GIFT | BIGGEST SURPRISE REVEALED🔥 #shorts,2021-10-15,69261,4809,107,Oct
+304,UNBOXING something very SPECIAL ❤️,2021-09-05,18999,1640,182,Sep
+305,L42. Floor in a Binary Search Tree | BST | C++ | Java,2021-09-01,79879,2828,64,Sep
+306,L44. Delete a Node in Binary Search Tree | BST | C++ | Java,2021-09-01,168712,5261,178,Sep
+307,L40. Search in a Binary Search Tree | BST | C++ | Java,2021-09-01,101975,3906,87,Sep
+308,L41. Ceil in a Binary Search Tree | BST | C++ | Java,2021-09-01,97834,3361,82,Sep
+309,L43. Insert a given Node in Binary Search Tree | BST | C++ | Java,2021-09-01,104863,3804,91,Sep
+310,L39. Introduction to Binary Search Tree | BST,2021-09-01,104793,4696,86,Sep
+311,L38. Flatten a Binary Tree to Linked List | 3 Approaches | C++ | Java,2021-09-01,173636,5344,228,Sep
+312,L37. Morris Traversal | Preorder | Inorder | C++ | Java,2021-09-01,219461,7324,262,Sep
+313,L36. Serialize and De-serialize Binary Tree | C++ | Java,2021-09-01,126374,3902,130,Sep
+314,L35. Construct the Binary Tree from Postorder and Inorder Traversal | C++ | Java,2021-08-31,110179,3279,154,Aug
+315,L34. Construct a Binary Tree from Preorder and Inorder Traversal | C++ | Java,2021-08-31,222512,6173,343,Aug
+316,L33. Requirements needed to construct a Unique Binary Tree | Theory,2021-08-31,87922,4251,98,Aug
+317,L32. Count total Nodes in a COMPLETE Binary Tree | O(Log^2 N) Approach | C++ | Java,2021-08-31,106156,4095,239,Aug
+318,L31. Minimum time taken to BURN the Binary Tree from a Node | C++ | Java,2021-08-30,131524,4249,231,Aug
+319,L30. Print all the Nodes at a distance of K in Binary Tree | C++ | Java,2021-08-30,181303,5288,248,Aug
+320,L29. Children Sum Property in Binary Tree | O(N) Approach | C++ | Java,2021-08-30,140459,4658,253,Aug
+321,L28. Maximum Width of Binary Tree | C++ | Java,2021-08-30,229508,6359,291,Aug
+322,L27. Lowest Common Ancestor in Binary Tree | LCA | C++ | Java,2021-08-29,272446,8574,286,Aug
+323,L26. Print Root to Node Path in Binary Tree | C++ | Java,2021-08-29,184215,5467,251,Aug
+324,L25. Check for Symmetrical Binary Trees | C++ | Java,2021-08-29,139163,5038,190,Aug
+325,L24. Right/Left View of Binary Tree | C++ | Java,2021-08-29,192540,6780,275,Aug
+326,L23. Bottom View of Binary Tree | C++ | Java,2021-08-29,163215,4906,167,Aug
+327,L22. Top View of Binary Tree | C++ | Java,2021-08-29,223876,6361,296,Aug
+328,L21. Vertical Order Traversal of Binary Tree | C++ | Java,2021-08-29,278726,6320,407,Aug
+329,L20. Boundary Traversal in Binary Tree | C++ | Java,2021-08-23,232153,6995,353,Aug
+330,L19. Zig-Zag or Spiral Traversal in Binary Tree | C++ | Java,2021-08-23,221382,6726,344,Aug
+331,L18. Check it two trees are Identical or Not | C++ | Java,2021-08-23,161109,5524,151,Aug
+332,L17. Maximum Path Sum in Binary Tree | C++ | Java,2021-08-23,300557,8447,429,Aug
+333,L16. Diameter of Binary Tree | C++ | Java,2021-08-23,315967,8570,313,Aug
+334,L15. Check for Balanced Binary Tree | C++ | Java,2021-08-23,294453,8484,295,Aug
+335,L14. Maximum Depth in Binary Tree | Height of Binary Tree | C++ | Java,2021-08-22,265439,7995,283,Aug
+336,L13. Preorder Inorder Postorder Traversals in One Traversal | C++ | Java | Stack | Binary Trees,2021-08-22,180106,5849,263,Aug
+337,L12. Iterative Postorder Traversal using 1 Stack | C++ | Java | Binary Trees,2021-08-22,207926,6016,276,Aug
+338,L11. Iterative Postorder Traversal using 2 Stack | C++ | Java | Binary Tree,2021-08-22,194398,5530,192,Aug
+339,L10. iterative Inorder Traversal in Binary Tree | C++ | Java | Stack,2021-08-22,280558,8717,155,Aug
+340,L9. Iterative Preorder Traversal in Binary Tree | C++ | Java | Stack,2021-08-22,275275,8265,172,Aug
+341,L8. Level Order Traversal of Binary Tree | BFS | C++ | Java,2021-08-21,336879,10016,277,Aug
+342,L7. Postorder Traversal of Binary Tree | C++ | Java | Code Explanation,2021-08-21,136206,4706,95,Aug
+343,L6. Inorder Traversal of Binary Tree | C++ | Java | Code Explanation,2021-08-21,196213,5907,119,Aug
+344,L5. Preorder Traversal of Binary Tree | C++ | Java | Code Explanation,2021-08-21,249132,9336,159,Aug
+345,L4. Binary Tree Traversals in Binary Tree | BFS | DFS,2021-08-20,265873,11304,240,Aug
+346,L3. Binary Tree Representation in Java,2021-08-20,160338,5677,101,Aug
+347,L2. Binary Tree Representation in C++,2021-08-20,225003,9643,196,Aug
+348,L1. Introduction to Trees | Types of Trees,2021-08-20,498677,18044,439,Aug
+349,Announcing the FREE ka TREE SERIES  #shorts,2021-08-14,537578,3440,167,Aug
+350,Rotten Oranges (BFS) | C++ & Java Code |G-10. Rotten Oranges,2021-07-21,59499,1722,125,Jul
+351,Implement Min Stack | O(2N) and O(N) Space Complexity,2021-07-19,84703,2175,90,Jul
+352,Sliding Window Maximum | Leetcode,2021-07-16,242898,7729,212,Jul
+353,Largest Rectangle in Histogram | Part - 2 (6-7 lines of Code Approach),2021-07-06,110447,3127,137,Jul
+354,Largest Rectangle in Histogram | Part - 1 | Leetcode 84,2021-07-06,206034,4738,152,Jul
+355,Implement LFU cache in C++/Java  | Leetcode(Hard),2021-07-01,55442,1415,72,Jul
+356,Imlement LFU Cache | Leetcode(Hard),2021-07-01,108990,3080,107,Jul
+357,Implement LRU Cache | C++ and Java Clean and Short Implementation,2021-06-23,117746,2931,180,Jun
+358,Implement LRU Cache | Leetcode,2021-06-23,261415,6173,231,Jun
+359,Next Greater Element | Two Variants | Leetcode,2021-06-21,238405,6078,228,Jun
+360,Valid Parentheses | Leetcode,2021-06-16,178512,4549,137,Jun
+361,Queue Implementation using Stack | O(1) Push and Pop Operations,2021-06-15,157122,4218,117,Jun
+362,Stack Implementation using a Single Queue,2021-06-14,172735,4968,107,Jun
+363,Queue Implementation using Arrays,2021-06-11,121309,3697,66,Jun
+364,Aggressive Cows | Binary Search | BS-17. Aggressive Cows | Binary Search Hard,2021-06-08,100927,4465,273,Jun
+365,Binary Search | BS-18. Allocate Books or Book Allocation | Hard Binary Search,2021-06-07,139614,7508,685,Jun
+366,Implementation of Stack using Arrays,2021-06-03,233468,3561,74,Jun
+367,Power Set | Print all Subsequences,2021-06-02,150105,3489,115,Jun
+368,"O(log(min(n,m))) approach | Bs-22. K-th element of two sorted arrays | Binary Search Approach",2021-06-01,116456,3241,210,Jun
+369,Median of two Sorted Arrays of Different Sizes | Binary Search,2021-05-29,239023,8078,581,May
+370,Search Element In a Rotated Sorted Array | LeetcodeBS-4. Search Element in Rotated Sorted Array - I,2021-05-28,108358,3382,183,May
+371,Single Element In Sorted Array | Leetcode,2021-05-27,73301,2464,95,May
+372,Median of Row Wise Sorted Matrix | Nested Binary Search,2021-05-26,135567,3475,254,May
+373,Nth Root of a Number Using Binary Search,2021-05-25,103839,6156,189,May
+374,L19. Rat in A Maze | Backtracking,2021-05-17,195025,5766,287,May
+375,L16. M-Coloring Problem | Backtracking,2021-05-14,185279,4938,202,May
+376,L15. Sudoko Solver | Backtracking,2021-05-12,248119,8609,313,May
+377,L14. N-Queens | Leetcode Hard | Backtracking,2021-05-11,370107,11658,458,May
+378,Kosaraju's Algorithm for Strongly Connected Components (SCC),2021-04-28,90133,2738,148,Apr
+379,Bellman Ford Algorithm | Detect Negative Weight Cycle in Graphs,2021-04-28,82488,2570,204,Apr
+380,Bridges in Graph | Cut Edge,2021-04-28,82658,2038,155,Apr
+381,Articulation Point | Cut Vertex,2021-04-28,48661,1391,119,Apr
+382,Prim's Algorithm | C++ Code Implementation,2021-04-28,89946,2144,149,Apr
+383,Kruskal's Algorithm,2021-04-28,99216,2847,130,Apr
+384,Prim's Algorithm | Java Code Implementation,2021-04-28,32748,620,41,Apr
+385,Prims Algorithm | Minimum Spanning Tree,2021-04-28,133330,3512,76,Apr
+386,Disjoint Set | Union By Rank and Path Compression,2021-04-28,118940,4298,178,Apr
+387,Dijkstra's Algorithm | Shortest Path in Undirected Graphs,2021-04-28,162380,3832,315,Apr
+388,Minimum Spanning Tree Explanation,2021-04-28,72967,2617,42,Apr
+389,Shortest Path in Directed Acyclic Graph (DAG),2021-04-28,94123,2730,278,Apr
+390,Cycle Detection in Directed Graph using BFS(Kahn's Algorithm),2021-04-28,84559,2486,80,Apr
+391,Shortest Path in Undirected Graph with Unit Weights,2021-04-28,96627,2858,152,Apr
+392,Bipartite Graph (DFS) | Graph Coloring,2021-04-28,75227,2687,99,Apr
+393,Cycle Detection in Directed Graph using DFS,2021-04-28,161557,3954,215,Apr
+394,Topological Sort (BFS) | Kahn's Algorithm,2021-04-28,104226,3359,151,Apr
+395,Bipartite Graph (BFS) | Graph Coloring,2021-04-28,128589,3882,138,Apr
+396,Topological Sort (DFS),2021-04-28,137899,3773,154,Apr
+397,Cycle Detection in Undirected Graph using BFS,2021-04-28,156125,3686,170,Apr
+398,Graph Representation in C++,2021-04-28,128988,5049,169,Apr
+399,Depth-First Dearch (DFS) | Traversal Technique in Graph,2021-04-28,139599,3837,145,Apr
+400,Cycle Detection in Undirected Graph using DFS,2021-04-28,127928,3622,136,Apr
+401,Connected Components in Graphs,2021-04-28,114684,5142,58,Apr
+402,Graph Representation in Java,2021-04-28,69313,1787,39,Apr
+403,Breadth-First Search (BFS) | Traversal Technique in Graphs,2021-04-28,176223,4882,239,Apr
+404,"Instead of watching this, watch the new series, link in description....",2021-04-28,233068,6987,134,Apr
+405,3 MAJOR ANNOUNCEMENTS |  Strivers Graph Challenge,2021-04-27,224309,4190,220,Apr
+406,L13. Print all Permutations of a String/Array | Recursion | Approach - 2,2021-03-08,301883,7275,257,Mar
+407,L12. Print all Permutations of a String/Array | Recursion | Approach - 1,2021-03-08,429264,8514,272,Mar
+408,L18. K-th Permutation Sequence | Leetcode,2021-03-04,187674,5957,281,Mar
+409,L11. Subset Sum II | Leetcode | Recursion,2021-03-03,292784,7366,358,Mar
+410,Leaving FACEBOOK and AMAZON to do something you dream needs real COURAGE !!!,2021-02-28,10192,597,29,Feb
+411,L10. Subset Sum I | Recursion | C++ | Java,2021-02-26,326076,7082,281,Feb
+412,L17. Palindrome Partitioning | Leetcode | Recursion | C++ | Java,2021-02-24,247368,6421,221,Feb
+413,L9. Combination Sum II | Leetcode | Recursion | Java | C++,2021-02-11,394189,8766,502,Feb
+414,L8. Combination Sum | Recursion | Leetcode | C++ | Java,2021-02-08,556937,11289,530,Feb
+415,Minimum Coins | Greedy Algorithms,2021-02-04,90247,2587,160,Feb
+416,Fractional Knapsack | Greedy Algorithms,2021-02-03,105021,2936,100,Feb
+417,Job Sequencing Problem | Greedy Algorithms,2021-01-18,155613,4196,158,Jan
+418,All Semester Roadmap !!,2021-01-16,38292,2385,169,Jan
+419,Minimum Platforms | Greedy Algorithms,2021-01-13,166842,5583,283,Jan
+420,N meetings In One Room | Greedy Algorithm,2021-01-03,191022,4046,229,Jan
+421,Max Consecutive Ones | Leetcode,2021-01-02,74248,2191,56,Jan
+422,Remove Duplicates From Sorted Array | Brute | Optimal,2021-01-01,123754,3861,85,Jan
+423,Trapping Rainwater | Brute | Better | Optimal | with INTUITION,2020-12-20,259426,7424,277,Dec
+424,3 SUM | Brute | Better | Optimal | C++ | Java,2020-12-17,242026,5691,292,Dec
+425,Clone a Linked List with next and random pointer | Linear Time and Constant Space Solution,2020-12-10,125068,4797,179,Dec
+426,Rotate a LinkedList | Adobe | Amazon | Microsoft | GS | MMT,2020-12-09,105861,3564,102,Dec
+427,Flattening of a Linked List | Amazon | Microsoft,2020-12-08,144579,5184,234,Dec
+428,"FIND THE STARTING POINT OF THE CYCLE | Knowing Algorithm is Okay, But Knowing The Intuition Matters",2020-11-25,113928,7768,166,Nov
+429,🔴 The Ultimate CP Sheet For Coding Rounds and Contests at Codeforces Codechef,2020-11-17,104869,6788,467,Nov
+430,Reverse Nodes in k-Group | Among the toughest problems of LinkedList,2020-11-11,189565,4140,299,Nov
+431,How To Make A Perfect Resume | For FAANG And Other Product Based Companies,2020-11-04,28795,1546,120,Nov
+432,Check for Palindromic Linked List | Snapdeal | Adobe | Amazon,2020-11-02,129977,3392,137,Nov
+433,Detect a Cycle in Linked List | Amazon | Samsung | Microsoft,2020-10-30,126727,3313,123,Oct
+434,Intersection point of two Linked Lists | Amazon | Microsoft | Brute | Better | Optimal1 | Optimal2,2020-10-29,157009,5220,236,Oct
+435,"An inspiring journey of a 6* Coder, Candidate Master, Incoming Intern at Amazon, Hackerearth Intern.",2020-10-23,63320,3561,187,Oct
+436,QnA Video(1) | Yeahhhhh we are 50000 strong !!,2020-10-16,23414,1806,193,Oct
+437,Add Two Numbers Given as LinkedLists | Amazon | Microsoft | Facebook | Qualcomm,2020-10-11,188217,5267,226,Oct
+438,Delete Node in a Linked List | Can you solve it ?,2020-10-11,102745,3055,132,Oct
+439,Remove Nth Node From End of Linked List | Amazon | Microsoft | Adobe,2020-10-11,180208,4540,208,Oct
+440,Merge Two Sorted Lists | Microsoft | Yahoo | Amazon,2020-10-11,192658,4705,161,Oct
+441,Middle of the Linked List | Amazon | Microsoft,2020-10-11,120231,3460,137,Oct
+442,Reverse a Linked List | Iterative,2020-10-11,317894,5282,82,Oct
+443,Let's give back to the community :),2020-10-07,162276,2889,111,Oct
+444,Longest Substring Without Repeating Characters | Amazon,2020-10-06,276876,6730,235,Oct
+445,Count Subarrays with Xor as K | This problem clears a lot of concepts,2020-10-01,114627,3950,183,Oct
+446,Largest Subarray with Zero Sum | Amazon | MMT,2020-09-30,193429,5567,187,Sep
+447,Longest Consecutive Sequence | Leetcode(Hard) | GooGLe,2020-09-29,141958,4027,416,Sep
+448,4SUM | GOOGLE | AMAZON,2020-09-16,171964,4543,350,Sep
+449,You Should Be Ashamed Of Yourselves !!,2020-09-06,170477,7777,1024,Sep
+450,Two Sum Problem | Leetcode's First Ever Problem | Please watch new video - link in description,2020-09-04,413724,7745,280,Sep
+451,Reverse Pairs | Leetcode(HARD) | Please watch new video - link in description,2020-09-03,161588,3792,247,Sep
+452,Behind The Scenes Of Making My YouTube Videos,2020-09-02,24201,2739,219,Sep
+453,Grid Unique Paths | GOOGLE interview | BS-24. Search in a 2D Matrix - I | Binary Search of 2D,2020-09-02,165769,5562,303,Sep
+454,Majority Element II | GOOGLE Interview Question | Brute-Better-Optimal,2020-09-01,129224,4208,301,Sep
+455,Majority Element | Leetcode | C++ | Java | Brute-Better-Optimal | Moore's Voting Algorithm,2020-08-26,173583,11988,427,Aug
+456,"POW(x,n) | Binary Exponentiation | Leetcode",2020-08-25,199222,7748,205,Aug
+457,Search in 2D-MATRIX | Leetcode | GFG | C++ | Java | Brute-Better-Better-Optimal,2020-08-24,156679,5429,342,Aug
+458,ROTATE IMAGE | Leetcode | C++ | Java | Brute-Optimal,2020-08-21,151928,6062,189,Aug
+459,Best Time to BUY and SELL STOCK | Leetcode | C++ | Java | Brute-Optimal,2020-08-20,166254,6855,222,Aug
+460,COUNT INVERSIONS in an ARRAY | Leetcode | C++ | Java | Brute-Optimal,2020-08-19,234039,8230,277,Aug
+461,NEXT PERMUTATION | Leetcode | Know the Intuition behind the Algorithm | C++ | Java | Brute-Optimal,2020-08-18,339898,9149,417,Aug
+462,PASCAL Triangle | Leetcode | C++ | Java | 3 problems asked in Interviews related to Pascal discussed,2020-08-17,234101,5664,191,Aug
+463,From giving up Coding to getting an Internship offer at AMAZON in one year | Lets know the journey !,2020-08-12,48400,3282,247,Aug
+464,Set Matrix Zeros | Leetcode | C++ | Java | Brute-Better-Optimal,2020-08-07,314226,7814,387,Aug
+465,Merge Intervals | Leetcode | Problem-6 | Brute-Optimal | C++/Java,2020-08-05,240823,7669,350,Aug
+466,Maximum Subarray Sum | Leetcode | Kadane's Algorithm | Brute-Better-Optimal | CPP/Java,2020-08-03,337157,10196,564,Aug
+467,Merge two sorted arrays in O(1) space | GFG | C++ and Java | Brute-Better-Optimal,2020-08-01,305190,8893,568,Aug
+468,Find the Missing and Repeating Number | GFG | C++ and Java | Brute-Better-Optimal-Optimal,2020-07-31,227250,6377,511,Jul
+469,Sort an array of 0's 1's & 2's | Intuition of Algo🔥 | C++ Java Python | Brute-Better-Optimal,2020-07-30,308508,12974,806,Jul
+470,C++ and Java |Brute-Better-OptimalFind the duplicate in an array of N+1 integers | Striver SDE Sheet,2020-07-29,495350,11369,906,Jul
+471,OLYMPICS of Programming || ICPC makes you standout in Interviews ??,2020-07-17,37210,2439,160,Jul
+472,Lazy Propagation in Segment Tree | Point and Range Updates | Live Coding,2020-07-11,46213,1296,85,Jul
+473,🔴 TCS CODEVITA 🔴 How to prepare yourself for Codevita | How will you get a job through Codevita?,2020-06-27,96068,5436,361,Jun
+474,"🔴 Companies that HIRE off-campus |  When to Apply ? | Salary that they offer.. | GIVEAWAY(Rs 50,000)",2020-06-22,111699,6466,291,Jun
+475,Segment Tree: Build and Query | Live Coding..,2020-06-15,98837,3462,107,Jun
+476,🔴 Python tricks for Competitive Programming,2020-06-14,40609,1455,75,Jun
+477,Thankyouuu for the love and 10000 subscribers in such a short span | Kuch bhi puchlooo aaj toh ;),2020-06-11,11618,943,44,Jun
+478,🔴 Interviewing Sirjan who cracked India's TOUGHEST Interview | Lower volume to get better quality,2020-06-10,31742,1019,42,Jun
+479,🔴 Striver's SDE sheet | Take every concept from every problem in the sheet and be Placement Ready!,2020-06-08,480232,21188,576,Jun
+480,🔴 GUIDE for COMPETITIVE PROGRAMMING | RESOURCES | EXCEL YOURSELF,2020-06-01,144106,9018,592,Jun
+481,Codeforces Round #645 | Problem D | Binary Search + Prefix Sum,2020-05-26,9412,429,88,May
+482,AtCoder Educational DP Contest | Problem C | WATCH TILL END,2020-05-25,8670,304,35,May
+483,AtCoder Educational DP Contest | Problem B | Remove the fear of Dynamic Programming,2020-05-24,5363,206,45,May
+484,Codeforces Education Round #87 | Multiset | Binary Lifting on Fenwick Tree Approach,2020-05-18,3252,89,13,May
+485,Codeforces Education Round #87 | Multiset | Binary Search + Fenwick Tree Approach,2020-05-18,10490,313,37,May
+486,Binary Lifting on Fenwick Tree Tutorial | Update and Query operations,2020-05-18,12783,402,9,May
+487,Fenwick Tree Tutorial | Foolw-up problem from Codeforces | Check first comment before starting,2020-05-18,70515,1364,74,May
+488,How I bought MACBOOK without doing a job | How I paid college fees while studying | Fulfill Dreams,2020-05-17,137323,9624,251,May
+489,Codeforces Round #643 | Count Triangles,2020-05-16,8974,268,62,May
+490,Codeforces Round #642 | Problem F | Decreasing Heights | Dynamic Programming,2020-05-15,3420,149,30,May
+491,Codeforces Round #642 | Constructing the Array | Join telegram group from link in description,2020-05-14,4533,237,28,May
+492,Codeforces Round #642 | Problem E | K-periodic Garland | Dynamic Programming,2020-05-14,7931,350,61,May
+493,Codeforces Round #641 | Orac and Models | Dynamic Programming,2020-05-13,5499,292,19,May
+494,Codeforces Round #641 | Orac and Medians | Problem D | Interesting Greedy Problem,2020-05-12,2722,171,16,May
+495,Codeforces Round 641 | Orac and LCM | Maths,2020-05-12,9240,543,90,May
+496,AtCoder Educational DP Contest | Problem A | Remove the fear of Dynamic Programming,2020-05-12,13597,435,66,May
+497,Learn C++ STL in 45 minutes | Containers | Algorithms | Comparators | Competitive Programming,2020-05-10,149584,9522,568,May
+498,Binary Search with C++ STL | 4 Problems followed up | Lower Bound and Upper Bound explained,2020-05-08,125840,4446,133,May
+499,Codeforces Round 638 Division 2 | Phoenix and Science | Problem-D,2020-05-01,4503,250,43,May
+500,Codeforces Round 638 | Phoenix and Distribution | Problem-C,2020-05-01,3988,234,64,May
+501,Codeforces Round 638 Division 2 | Phoenix and Beauty | Problem-B,2020-05-01,5642,360,43,May
+502,Coordinate Compression | A small but an useful trick to have in the armoury | Watch till end !!!,2020-04-27,12969,727,43,Apr
+503,Codeforces Educational Round #86 | Yet Another Counting Problem | Watch till Code explanation,2020-04-26,10195,422,43,Apr
+504,Roadmap to learn Data-Structures and Algorithms!! How to start competitive Programming??,2020-04-26,245359,15657,491,Apr
+505,Dynamic Programming + Path | Codeforces Round 637 | Nastya and Scoreboard,2020-04-23,8412,316,46,Apr
+506,How to setup Sublime Text for Competitive Programming?,2020-04-22,199059,3282,298,Apr
+507,Codeforces Round 635 | Problem D | Greedy plus Binary Search solves it easily,2020-04-22,2497,110,14,Apr
+508,Scanline Algorithm | Codeforces Round 636 | Constant Palindrome Sum | I say it prefix trick,2020-04-21,30815,865,126,Apr
+509,Greedy fails but adding a small trick to Greedy works | Trees | Codeforces 635 - C,2020-04-19,5026,316,41,Apr
+510,An Interesting Problem on Tree from Codeforces | Round 633 | Problem D,2020-04-18,6325,157,30,Apr
+511,How to get an internship at Amazon | Internship Interview Experience | Where to prepare from,2020-04-09,132007,7556,261,Apr
+512,How to approach people at Linkedin | How to build connections | Whom to message for referrals,2020-04-04,32372,2707,74,Apr
+513,Experience with Scaler Academy | More insights in the Description !!,2020-04-01,180559,0,623,Apr
+514,Longest Increasing Subsequence NlogN approach,2020-03-29,69463,1870,141,Mar
+515,Equal Average Partition Dynamic Programming,2020-03-23,24033,709,62,Mar
