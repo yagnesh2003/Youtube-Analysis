@@ -27,3 +27,8 @@ Running the Project
 
 Once dependencies are installed, execute the project by running the Jupyter Notebook (*.ipynb) file. This file contains the main workflow and can be executed step-by-step to interact with the YouTube API and analyze channel data.
 
+
+## Workflow : 
+1. Data fetching from api
+2. Preprocessing ,visualizing and EDA on data
+3. Sentiment Analysis on comments
