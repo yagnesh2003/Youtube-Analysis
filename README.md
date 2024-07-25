@@ -32,3 +32,16 @@ Once dependencies are installed, execute the project by running the Jupyter Note
 1. Data fetching from api
 2. Preprocessing ,visualizing and EDA on data
 3. Sentiment Analysis on comments
+
+
+## Impact & Achievements:
+
+Delivered robust and reliable data analysis, facilitating data-driven decisions.
+Enhanced the ability to track and optimize engagement metrics for YouTube channels.
+Provided actionable insights that contributed to understanding audience behavior and preferences.
+
+
+
+
+
+
