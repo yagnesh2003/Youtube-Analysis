@@ -36,9 +36,9 @@ Once dependencies are installed, execute the project by running the Jupyter Note
 
 ## Impact & Achievements:
 
-Delivered robust and reliable data analysis, facilitating data-driven decisions.
-Enhanced the ability to track and optimize engagement metrics for YouTube channels.
-Provided actionable insights that contributed to understanding audience behavior and preferences.
+* Delivered robust and reliable data analysis, facilitating data-driven decisions.
+* Enhanced the ability to track and optimize engagement metrics for YouTube channels.
+* Provided actionable insights that contributed to understanding audience behavior and preferences.
 
 
 
